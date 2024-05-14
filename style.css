@@ -1,0 +1,141 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui;
+}
+.box {
+    text-align: center;
+    width: 950px;
+    height: 900px;
+    border: 3px solid purple;
+    padding: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+  }
+.clearfix {
+    clear: both;
+}
+.main{
+    height: 300px;
+    width: 500px;
+    background-color: pink;
+    box-shadow: 5px 7px 15px purple;
+    margin: 20px auto;
+}
+
+
+.top-section{
+    background-color: #151b29;
+    text-align: center;
+    padding: 20px;
+}
+.profile1 {
+    width: 100px;
+    border-radius: 20%;
+}
+.p1{
+    color: purple;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+.p1 span{
+    font-weight: 100;
+    color: black;
+}
+.p2{
+    font-size: 20px;
+    color: purple;
+    margin: 0px;
+    margin-top: px;
+    text-align: justify;
+}
+
+.col-div-4 {
+    width: 35%;
+    float: left;
+}
+
+.col-div-8 {
+    width: 62%;
+    float: left;
+}
+
+.line {
+    border-left: 1px solid blue;
+    height: 470px;
+    width: 2%;
+    margin-top: 30px;
+    float: left;
+}
+
+.content-box {
+    padding: 100px;
+    height: 50px;
+    display: contents;
+}
+
+.head {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.head2 {
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+.head3 {
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+.head4 {
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+.head5 {
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+.head6 {
+    text-align: justify;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p3 {
+    font-size: 18px;
+    color: purple;
+    margin-bottom: -5px;
+    text-align: justify;
+}
+
+.fa {
+    color: purple;
+}
+
+.skills {
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+
+.skills li {
+    padding: 5px;
+}
+
+.skills li span {
+    color: purple;
+}
+
+.p-4 {
+    font-size: 20px;
+    color: purple;
+    text-align: justify;
+
+}
